@@ -9,7 +9,7 @@ import pages.StudyMateLoginPage;
 import utilities.Config;
 import utilities.Driver;
 
-public class StudeMateLoginSteps {
+public class StudyMateLoginSteps {
 
     WebDriver driver = Driver.getDriver();
     StudyMateLoginPage loginPage = new StudyMateLoginPage();

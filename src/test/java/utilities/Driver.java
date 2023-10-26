@@ -53,8 +53,8 @@ public class Driver {
 
     public static WebDriver getDriverWithDisabledNotification(){
 
-        System.setProperty("webdriver.chrome.driver",
-                "/Users/codewiseacademy/Desktop/SeleniumFirstProject/src/test/drivers/chromedriver");
+//        System.setProperty("webdriver.chrome.driver",
+//                "/Users/codewiseacademy/Desktop/SeleniumFirstProject/src/test/drivers/chromedriver");
 
         if (driver != null){
             return driver;
